@@ -251,9 +251,10 @@ a {
   color: #434455;
 }
 /* portfolio */
-
-.title-portfolio {
+.section-portfolio {
   padding: 120px 0;
+}
+.title-portfolio {
   padding-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
@@ -299,7 +300,6 @@ a {
 .page-footer {
   background-color: #2e2f42;
   padding: 100px;
-  margin-top: 120px;
 }
 .footer-logo {
   display: inline-block;
